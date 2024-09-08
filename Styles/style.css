@@ -2,11 +2,12 @@
     color: red;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.ShopAll{
+.About{
     color: red;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 45px;
 }
-.FAQs{
+.ContactUs{
     color: red;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -14,7 +15,7 @@
     display:flex;
     justify-content: space-between;
     justify-content: space-around;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 .header{
     display: flex; 
@@ -28,5 +29,5 @@ li{
 .section{
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 60px;
 }

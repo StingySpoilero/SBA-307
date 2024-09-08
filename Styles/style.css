@@ -1,16 +1,24 @@
 .Home{
-    color: black;
+    color: red;
+}
+.ShopAll{
+    color: red;
+}
+.FAQs{
+    color: red;
 }
 .flex-container{
     display:flex;
     justify-content: space-between;
+    justify-content: space-around;
+    
 }
 .header{
     display: flex; 
     justify-content:center;
     align-items: center;
-    color: red;
+    font-style: italic;
 }
 li{
     list-style: none;
-};
+}

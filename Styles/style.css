@@ -1,17 +1,19 @@
 .Home{
     color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .ShopAll{
     color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .FAQs{
     color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .flex-container{
     display:flex;
     justify-content: space-between;
     justify-content: space-around;
-    
 }
 .header{
     display: flex; 

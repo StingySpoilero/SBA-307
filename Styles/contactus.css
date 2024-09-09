@@ -4,3 +4,25 @@
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.email{
+    width: 100%;
+    margin-inline-start: 26px; 
+}
+.message{
+    width: 100%;
+    margin-inline-start: 26px;  
+}
+
+.button{
+    width: 50%;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 44px;
+}
+
+button:hover {
+    background-color: red;
+}html{
+    background-color: rosybrown;
+}

@@ -1,4 +1,5 @@
 .header{
+    background-color: rosybrown;
     display: grid;
     text-align: center;
     font-style: italic;
@@ -6,4 +7,13 @@
 }
 html{
     background-color: rosybrown;
+}
+.dropdown{
+    background-color: rosybrown;
+}
+.dropdown-menu{
+    background-color: wheat;
+}
+.table-bordered{
+    background-color: wheat;
 }

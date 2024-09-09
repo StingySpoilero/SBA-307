@@ -30,3 +30,24 @@ button:hover {
 .email-1{
 margin-inline-start: 20px;
 }
+.Home{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.About{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 45px;
+}
+.ContactUs{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.flex-container{
+    display:flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-right: 50px;}
+    li{
+        list-style: none;
+    }

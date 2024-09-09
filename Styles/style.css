@@ -57,3 +57,14 @@ margin: 50px;
 html{
     background-color: rosybrown;
 }
+.flash{
+    animation: flash 2s infinite;
+}
+@keyframes flash{
+    0%, 50% {
+        opacity: 12;
+    }
+    30% {
+        opacity: 0;
+    }
+}
